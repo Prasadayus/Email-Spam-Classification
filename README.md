@@ -2,6 +2,11 @@
 
 This project demonstrates an email spam classification model using the Naive Bayes algorithm. The goal is to classify emails as spam or not spam based on their content.
 
+![image](https://github.com/user-attachments/assets/8146b318-4463-427d-9232-8067fc9189f9)
+
+
+
+
 ## Project Summary
 
 1. **Data Preparation**
