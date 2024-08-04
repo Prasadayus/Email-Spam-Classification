@@ -30,8 +30,7 @@ This project demonstrates an email spam classification model using the Naive Bay
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+   https://github.com/Prasadayus/Email-Spam-Classification.git
     ```
 
 2. Install the required libraries:
@@ -43,7 +42,7 @@ This project demonstrates an email spam classification model using the Naive Bay
 
 1. Start the Streamlit app:
     ```sh
-    streamlit run app.py
+    streamlit run spam prediction.py
     ```
 
 2. Open your web browser and go to the URL provided by Streamlit to interact with the app.
